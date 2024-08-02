@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/aa5ae54c-8805-48b1-8196-0e867ecc6aa9
   ```
   # Import the OpenAI library
   from openai import OpenAI
-  client = OpenAI()
+  
   ```
 
   ```
